@@ -15,7 +15,7 @@ cp dcmb/foo.py working_dir/
 # Table of Contents
 Please feel free to use these links to guide through the repo
 1. [Code of Conduct](https://github.com/dcmb-courses/bioinf575/blob/master/CODE_OF_CONDUCT.md)
-2. [Asking a question](https://github.com/dcmb-courses/bioinf575/wiki/Adding-questions)
+2. [Asking a question](https://github.com/dcmb-courses/bioinf575/wiki/Questions)
 
 ---
 ### Updating your local repo
