@@ -1,0 +1,4 @@
+61
+30
+not a temperature
+71
