@@ -1,0 +1,7 @@
+Symbol	Aliases	description	chromosome	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count
+TERT	CMM9, DKCA2, DKCB4, EST2, PFBMFT1, TCS1, TP2, TRT, hEST2, hTRT	telomerase reverse transcriptase	5	1253167	1295068	minus	16
+TP63	AIS, B(p51A), B(p51B), EEC3, KET, LMS, NBP, OFC8, RHS, SHFM4, TP53CP, TP53L, TP73L, p40, p51, p53CP, p63, p73H, p73L	tumor protein p63	3	189596746	189897276	plus	17
+CHRNA5	LNCR2	cholinergic receptor nicotinic alpha 5 subunit	15	78565520	78595269	plus	6
+CADM1	BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	cell adhesion molecule 1	11	115169236	115504428	minus	13
+CHRNA3	BAIPRCK, LNCR2, NACHRA3, PAOD2	cholinergic receptor nicotinic alpha 3 subunit	15	78593052	78620996	minus	9
+RACK1	GNB2L1, Gnb2-rs1, H12.3, HLC-7, PIG21	receptor for activated C kinase 1	5	181236897	181243906	minus	8
