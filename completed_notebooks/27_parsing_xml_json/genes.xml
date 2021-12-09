@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<data>
+    <gene symbol="BRCA1">
+        <id>672</id>
+        <name>BRCA1 DNA repair associated</name>
+        <alias sym="IRIS"/>
+        <alias sym="PSCP"/>
+    </gene>
+    <gene symbol="BRCA2">
+        <id>675</id>
+        <name>BRCA2 DNA repair associated</name>
+        <alias sym="FAD"/>
+        <alias sym="FAD1"/>
+        <alias sym="BRCC2"/>
+    </gene>
+</data>

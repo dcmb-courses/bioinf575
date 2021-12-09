@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+       <Food>
+  
+           <Info>
+           <Msg>Food Store items.</Msg>
+           </Info>
+  
+           <store slNo="1">
+               <foodItem>oranges</foodItem>
+               <price>5</price>
+               <quantity>1kg</quantity>
+               <discount>7%</discount>
+           </store>
+  
+           <store slNo="2">
+               <foodItem>carrots</foodItem>
+               <price>2</price>
+               <quantity>1kg</quantity>
+               <discount>5%</discount>
+           </store>
+  
+       </Food>
+
