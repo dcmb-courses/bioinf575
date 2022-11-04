@@ -1,0 +1,7 @@
+GeneID	Symbol	description	map_location	chromosome	accession.version	start_position	end_position	orientation	exon_count	GOTerms
+672	BRCA1	BRCA1 DNA repair associated	17q21.31	17	NC_000017.11	43044295	43125364	minus	24	intrinsic apoptotic signaling pathway in response to DNA damage;transcription cis-regulatory region binding;transcription coactivator activity;ubiquitin-protein transferase activity
+675	BRCA2	BRCA2 DNA repair associated	13q13.1	13	NC_000013.11	32315508	32400268	plus	27	histone acetyltransferase activity;protease binding;single-stranded DNA binding;protein binding
+7157	TP53	tumor protein p53	17p13.1	17	NC_000017.11	7668421	7687490	minus	12	 negative regulation of transcription, DNA-templated;positive regulation of transcription by RNA polymerase II;promoter-specific chromatin binding;circadian behavior
+10296	MAEA	macrophage erythroblast attacher, E3 ubiquitin ligase	4p16.3	4	NC_000004.12	1289890	1340137	plus	13	cell adhesion;protein binding;promoter-specific chromatin binding
+7040	TGFB1	transforming growth factor beta 1	19q13.2	19	NC_000019.10	41330323	41353922	minus	7	cell adhesion;protein binding
+64926	RASAL3	RAS protein activator like 3	19p13.12	19	NC_000019.10	15451624	15464571	minus	18	cell adhesion;protein binding;protease binding
