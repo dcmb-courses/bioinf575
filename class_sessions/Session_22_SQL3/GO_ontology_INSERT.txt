@@ -1,0 +1,4 @@
+myPfamId0	goid10	myterm10	process
+myPfamId0	goid20	myterm20	process
+myPfamId0	goid30	myterm30	process
+myPfamId0	goid40	myterm40	process
