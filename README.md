@@ -23,5 +23,5 @@ As we work on code throughout this class, you will be expected to use code store
 
 When you get to this issue, please read the [wiki](https://github.com/dcmb-courses/bioinf575/wiki/Updating-your-local-repo) page that details how to update your local repo without overwritting your data. This _should_ become habit before class starts.
 
-To find out more about `git stash`, go to https://git-scm.com/book/en/v1/Git-Tools-Stashing to read all about it.
+To find out more about `git stash`, go to https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning to read all about it.
 
