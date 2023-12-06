@@ -1,0 +1,12 @@
+args = commandArgs(trailingOnly = T)
+print("arguments are:")
+print(args)
+file_name = args[6]
+print("file is:")
+print(file_name)
+data = read.table(file = file_name, header = T, row.names = 1)
+print("Data is:")
+print(data)
+print("\n")
+print("sum is:")
+sum(data)

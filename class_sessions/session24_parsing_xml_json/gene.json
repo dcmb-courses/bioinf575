@@ -1,0 +1,32 @@
+[{
+  "id": 672,
+  "symbol": "BRCA1",
+  "full_name": "BRCA1 DNA repair associated",
+  "aliases": [
+    "IRIS",
+    "PSCP",
+    "BRCAI",
+    "FANCS",
+    "PNCA4",
+    "RNF53",
+    "BROVCA1",
+    "PPP1R53"
+  ]
+},
+{
+  "id": 675,
+  "symbol": "BRCA2",
+  "full_name": "BRCA2 DNA repair associated",
+  "aliases": [
+    "FAD",
+    "FACD",
+    "FAD1",
+    "GLM3",
+    "BRCC2",
+    "FANCD",
+    "PNCA2",
+    "FANCD1",
+    "XRCC11",
+    "BROVCA2"
+  ]
+}]
