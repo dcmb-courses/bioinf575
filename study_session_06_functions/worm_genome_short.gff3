@@ -1,0 +1,200 @@
+##gff-version 3
+##sequence-region   I 1 15072434
+##sequence-region   II 1 15279421
+##sequence-region   III 1 13783801
+##sequence-region   IV 1 17493829
+##sequence-region   MtDNA 1 13794
+##sequence-region   V 1 20924180
+##sequence-region   X 1 17718942
+#!genome-build WormBase WBcel235
+#!genome-version WBcel235
+#!genome-date 2012-12
+#!genome-build-accession NCBI:GCA_000002985.3
+#!genebuild-last-updated 2017-06
+I	WormBase	chromosome	1	15072434	.	.	.	ID=chromosome:I;Alias=BX284601.5,NC_003279.8
+###
+I	WormBase	ncRNA_gene	3747	3909	.	-	.	ID=gene:WBGene00023193;Name=Y74C9A.6;biotype=snoRNA;gene_id=WBGene00023193;logic_name=wormbase_non_coding
+I	WormBase	snoRNA	3747	3909	.	-	.	ID=transcript:Y74C9A.6;Parent=gene:WBGene00023193;Name=Y74C9A.6;biotype=snoRNA;transcript_id=Y74C9A.6
+I	WormBase	exon	3747	3909	.	-	.	Parent=transcript:Y74C9A.6;Name=Y74C9A.6.e1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.6.e1;rank=1;version=1
+###
+I	WormBase	gene	4116	10230	.	-	.	ID=gene:WBGene00022277;Name=homt-1;biotype=protein_coding;description=Alpha N-terminal protein methyltransferase 1  [Source:UniProtKB/Swiss-Prot%3BAcc:Q9N4D9];gene_id=WBGene00022277;logic_name=wormbase
+I	WormBase	mRNA	4116	10230	.	-	.	ID=transcript:Y74C9A.3;Parent=gene:WBGene00022277;Name=Y74C9A.3;biotype=protein_coding;transcript_id=Y74C9A.3
+I	WormBase	three_prime_UTR	4116	4220	.	-	.	Parent=transcript:Y74C9A.3
+I	WormBase	exon	4116	4358	.	-	.	Parent=transcript:Y74C9A.3;Name=Y74C9A.3.e5;constitutive=1;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Y74C9A.3.e5;rank=5;version=1
+I	WormBase	CDS	4221	4358	.	-	0	ID=CDS:Y74C9A.3;Parent=transcript:Y74C9A.3;protein_id=Y74C9A.3
+I	WormBase	exon	5195	5296	.	-	.	Parent=transcript:Y74C9A.3;Name=Y74C9A.3.e4;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.3.e4;rank=4;version=1
+I	WormBase	CDS	5195	5296	.	-	0	ID=CDS:Y74C9A.3;Parent=transcript:Y74C9A.3;protein_id=Y74C9A.3
+I	WormBase	exon	6037	6327	.	-	.	Parent=transcript:Y74C9A.3;Name=Y74C9A.3.e3;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.3.e3;rank=3;version=1
+I	WormBase	CDS	6037	6327	.	-	0	ID=CDS:Y74C9A.3;Parent=transcript:Y74C9A.3;protein_id=Y74C9A.3
+I	WormBase	exon	9727	9846	.	-	.	Parent=transcript:Y74C9A.3;Name=Y74C9A.3.e2;constitutive=1;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.3.e2;rank=2;version=1
+I	WormBase	CDS	9727	9846	.	-	0	ID=CDS:Y74C9A.3;Parent=transcript:Y74C9A.3;protein_id=Y74C9A.3
+I	WormBase	CDS	10095	10148	.	-	0	ID=CDS:Y74C9A.3;Parent=transcript:Y74C9A.3;protein_id=Y74C9A.3
+I	WormBase	exon	10095	10230	.	-	.	Parent=transcript:Y74C9A.3;Name=Y74C9A.3.e1;constitutive=1;ensembl_end_phase=0;ensembl_phase=-1;exon_id=Y74C9A.3.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	10149	10230	.	-	.	Parent=transcript:Y74C9A.3
+###
+I	WormBase	gene	11495	16837	.	+	.	ID=gene:WBGene00022276;Name=nlp-40;biotype=protein_coding;description=Neuropeptide-like peptides nlp-40 Peptide P1 Peptide P2 Peptide P3 Peptide P4 [Source:UniProtKB/Swiss-Prot%3BAcc:Q9N4D8];gene_id=WBGene00022276;logic_name=wormbase
+I	WormBase	mRNA	11495	16793	.	+	.	ID=transcript:Y74C9A.2a.1;Parent=gene:WBGene00022276;Name=Y74C9A.2a.1;biotype=protein_coding;transcript_id=Y74C9A.2a.1
+I	WormBase	exon	11495	11561	.	+	.	Parent=transcript:Y74C9A.2a.1;Name=Y74C9A.2a.1.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	11495	11561	.	+	.	Parent=transcript:Y74C9A.2a.1
+I	WormBase	five_prime_UTR	11618	11640	.	+	.	Parent=transcript:Y74C9A.2a.1
+I	WormBase	exon	11618	11689	.	+	.	Parent=transcript:Y74C9A.2a.1;Name=Y74C9A.2a.1.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e2;rank=2;version=1
+I	WormBase	CDS	11641	11689	.	+	0	ID=CDS:Y74C9A.2a.1;Parent=transcript:Y74C9A.2a.1;protein_id=Y74C9A.2a.1
+I	WormBase	exon	14951	15160	.	+	.	Parent=transcript:Y74C9A.2a.1;Name=Y74C9A.2a.1.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.2a.1.e3;rank=3;version=1
+I	WormBase	CDS	14951	15160	.	+	2	ID=CDS:Y74C9A.2a.1;Parent=transcript:Y74C9A.2a.1;protein_id=Y74C9A.2a.1
+I	WormBase	exon	16473	16585	.	+	.	Parent=transcript:Y74C9A.2a.1;Name=Y74C9A.2a.1.e4;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.2a.1.e4;rank=4;version=1
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2a.1;Parent=transcript:Y74C9A.2a.1;protein_id=Y74C9A.2a.1
+I	WormBase	exon	16702	16793	.	+	.	Parent=transcript:Y74C9A.2a.1;Name=Y74C9A.2a.1.e5;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e5;rank=5;version=1
+I	WormBase	three_prime_UTR	16702	16793	.	+	.	Parent=transcript:Y74C9A.2a.1
+I	WormBase	mRNA	11495	16837	.	+	.	ID=transcript:Y74C9A.2a.2;Parent=gene:WBGene00022276;Name=Y74C9A.2a.2;biotype=protein_coding;transcript_id=Y74C9A.2a.2
+I	WormBase	exon	11495	11561	.	+	.	Parent=transcript:Y74C9A.2a.2;Name=Y74C9A.2a.1.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	11495	11561	.	+	.	Parent=transcript:Y74C9A.2a.2
+I	WormBase	five_prime_UTR	11618	11640	.	+	.	Parent=transcript:Y74C9A.2a.2
+I	WormBase	exon	11618	11689	.	+	.	Parent=transcript:Y74C9A.2a.2;Name=Y74C9A.2a.1.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e2;rank=2;version=1
+I	WormBase	CDS	11641	11689	.	+	0	ID=CDS:Y74C9A.2a.2;Parent=transcript:Y74C9A.2a.2;protein_id=Y74C9A.2a.2
+I	WormBase	exon	14951	15160	.	+	.	Parent=transcript:Y74C9A.2a.2;Name=Y74C9A.2a.1.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.2a.1.e3;rank=3;version=1
+I	WormBase	CDS	14951	15160	.	+	2	ID=CDS:Y74C9A.2a.2;Parent=transcript:Y74C9A.2a.2;protein_id=Y74C9A.2a.2
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2a.2;Parent=transcript:Y74C9A.2a.2;protein_id=Y74C9A.2a.2
+I	WormBase	exon	16473	16837	.	+	.	Parent=transcript:Y74C9A.2a.2;Name=Y74C9A.2a.2.e4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Y74C9A.2a.2.e4;rank=4;version=1
+I	WormBase	three_prime_UTR	16586	16837	.	+	.	Parent=transcript:Y74C9A.2a.2
+I	WormBase	mRNA	11499	16837	.	+	.	ID=transcript:Y74C9A.2a.3;Parent=gene:WBGene00022276;Name=Y74C9A.2a.3;biotype=protein_coding;transcript_id=Y74C9A.2a.3
+I	WormBase	exon	11499	11557	.	+	.	Parent=transcript:Y74C9A.2a.3;Name=Y74C9A.2a.3.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2a.3.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	11499	11557	.	+	.	Parent=transcript:Y74C9A.2a.3
+I	WormBase	five_prime_UTR	11618	11640	.	+	.	Parent=transcript:Y74C9A.2a.3
+I	WormBase	exon	11618	11689	.	+	.	Parent=transcript:Y74C9A.2a.3;Name=Y74C9A.2a.1.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e2;rank=2;version=1
+I	WormBase	CDS	11641	11689	.	+	0	ID=CDS:Y74C9A.2a.3;Parent=transcript:Y74C9A.2a.3;protein_id=Y74C9A.2a.3
+I	WormBase	exon	14951	15160	.	+	.	Parent=transcript:Y74C9A.2a.3;Name=Y74C9A.2a.1.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.2a.1.e3;rank=3;version=1
+I	WormBase	CDS	14951	15160	.	+	2	ID=CDS:Y74C9A.2a.3;Parent=transcript:Y74C9A.2a.3;protein_id=Y74C9A.2a.3
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2a.3;Parent=transcript:Y74C9A.2a.3;protein_id=Y74C9A.2a.3
+I	WormBase	exon	16473	16837	.	+	.	Parent=transcript:Y74C9A.2a.3;Name=Y74C9A.2a.2.e4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Y74C9A.2a.2.e4;rank=4;version=1
+I	WormBase	three_prime_UTR	16586	16837	.	+	.	Parent=transcript:Y74C9A.2a.3
+I	WormBase	mRNA	11505	16837	.	+	.	ID=transcript:Y74C9A.2a.4;Parent=gene:WBGene00022276;Name=Y74C9A.2a.4;biotype=protein_coding;transcript_id=Y74C9A.2a.4
+I	WormBase	exon	11505	11561	.	+	.	Parent=transcript:Y74C9A.2a.4;Name=Y74C9A.2a.4.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2a.4.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	11505	11561	.	+	.	Parent=transcript:Y74C9A.2a.4
+I	WormBase	five_prime_UTR	11623	11640	.	+	.	Parent=transcript:Y74C9A.2a.4
+I	WormBase	exon	11623	11689	.	+	.	Parent=transcript:Y74C9A.2a.4;Name=Y74C9A.2a.4.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2a.4.e2;rank=2;version=1
+I	WormBase	CDS	11641	11689	.	+	0	ID=CDS:Y74C9A.2a.4;Parent=transcript:Y74C9A.2a.4;protein_id=Y74C9A.2a.4
+I	WormBase	exon	14951	15160	.	+	.	Parent=transcript:Y74C9A.2a.4;Name=Y74C9A.2a.1.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.2a.1.e3;rank=3;version=1
+I	WormBase	CDS	14951	15160	.	+	2	ID=CDS:Y74C9A.2a.4;Parent=transcript:Y74C9A.2a.4;protein_id=Y74C9A.2a.4
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2a.4;Parent=transcript:Y74C9A.2a.4;protein_id=Y74C9A.2a.4
+I	WormBase	exon	16473	16837	.	+	.	Parent=transcript:Y74C9A.2a.4;Name=Y74C9A.2a.2.e4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Y74C9A.2a.2.e4;rank=4;version=1
+I	WormBase	three_prime_UTR	16586	16837	.	+	.	Parent=transcript:Y74C9A.2a.4
+I	WormBase	mRNA	11618	16837	.	+	.	ID=transcript:Y74C9A.2a.5;Parent=gene:WBGene00022276;Name=Y74C9A.2a.5;biotype=protein_coding;transcript_id=Y74C9A.2a.5
+I	WormBase	five_prime_UTR	11618	11640	.	+	.	Parent=transcript:Y74C9A.2a.5
+I	WormBase	exon	11618	11689	.	+	.	Parent=transcript:Y74C9A.2a.5;Name=Y74C9A.2a.1.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2a.1.e2;rank=1;version=1
+I	WormBase	CDS	11641	11689	.	+	0	ID=CDS:Y74C9A.2a.5;Parent=transcript:Y74C9A.2a.5;protein_id=Y74C9A.2a.5
+I	WormBase	exon	14951	15160	.	+	.	Parent=transcript:Y74C9A.2a.5;Name=Y74C9A.2a.1.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.2a.1.e3;rank=2;version=1
+I	WormBase	CDS	14951	15160	.	+	2	ID=CDS:Y74C9A.2a.5;Parent=transcript:Y74C9A.2a.5;protein_id=Y74C9A.2a.5
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2a.5;Parent=transcript:Y74C9A.2a.5;protein_id=Y74C9A.2a.5
+I	WormBase	exon	16473	16837	.	+	.	Parent=transcript:Y74C9A.2a.5;Name=Y74C9A.2a.2.e4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Y74C9A.2a.2.e4;rank=3;version=1
+I	WormBase	three_prime_UTR	16586	16837	.	+	.	Parent=transcript:Y74C9A.2a.5
+I	WormBase	mRNA	11623	16837	.	+	.	ID=transcript:Y74C9A.2b;Parent=gene:WBGene00022276;Name=Y74C9A.2b;biotype=protein_coding;transcript_id=Y74C9A.2b
+I	WormBase	exon	11623	11686	.	+	.	Parent=transcript:Y74C9A.2b;Name=Y74C9A.2b.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.2b.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	11623	11686	.	+	.	Parent=transcript:Y74C9A.2b
+I	WormBase	five_prime_UTR	14950	15102	.	+	.	Parent=transcript:Y74C9A.2b
+I	WormBase	exon	14950	15160	.	+	.	Parent=transcript:Y74C9A.2b;Name=Y74C9A.2b.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.2b.e2;rank=2;version=1
+I	WormBase	CDS	15103	15160	.	+	0	ID=CDS:Y74C9A.2b;Parent=transcript:Y74C9A.2b;protein_id=Y74C9A.2b
+I	WormBase	CDS	16473	16585	.	+	2	ID=CDS:Y74C9A.2b;Parent=transcript:Y74C9A.2b;protein_id=Y74C9A.2b
+I	WormBase	exon	16473	16837	.	+	.	Parent=transcript:Y74C9A.2b;Name=Y74C9A.2a.2.e4;constitutive=0;ensembl_end_phase=-1;ensembl_phase=1;exon_id=Y74C9A.2a.2.e4;rank=3;version=1
+I	WormBase	three_prime_UTR	16586	16837	.	+	.	Parent=transcript:Y74C9A.2b
+###
+I	WormBase	gene	17487	26781	.	-	.	ID=gene:WBGene00022278;Name=rcor-1;biotype=protein_coding;description=RCOR (REST CO-Repressor) homolog  [Source:UniProtKB/TrEMBL%3BAcc:H2KZI1];gene_id=WBGene00022278;logic_name=wormbase
+I	WormBase	mRNA	17487	26781	.	-	.	ID=transcript:Y74C9A.4b;Parent=gene:WBGene00022278;Name=Y74C9A.4b;biotype=protein_coding;transcript_id=Y74C9A.4b
+I	WormBase	three_prime_UTR	17487	17910	.	-	.	Parent=transcript:Y74C9A.4b
+I	WormBase	exon	17487	17958	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4b.e12;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Y74C9A.4b.e12;rank=12;version=1
+I	WormBase	CDS	17911	17958	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	18006	18115	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e11;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e11;rank=11;version=1
+I	WormBase	CDS	18006	18115	.	-	2	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	19015	19241	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e10;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Y74C9A.4a.e10;rank=10;version=1
+I	WormBase	CDS	19015	19241	.	-	1	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	20271	20478	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e9;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=Y74C9A.4a.e9;rank=9;version=1
+I	WormBase	CDS	20271	20478	.	-	2	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	20848	20964	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e8;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.4a.e8;rank=8;version=1
+I	WormBase	CDS	20848	20964	.	-	2	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	21013	21139	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e7;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e7;rank=7;version=1
+I	WormBase	CDS	21013	21139	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	24651	24845	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e6;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e6;rank=6;version=1
+I	WormBase	CDS	24651	24845	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	24929	25090	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e5;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e5;rank=5;version=1
+I	WormBase	CDS	24929	25090	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	25273	25472	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e4;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e4;rank=4;version=1
+I	WormBase	CDS	25273	25472	.	-	2	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	26371	26524	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e3;rank=3;version=1
+I	WormBase	CDS	26371	26524	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	26590	26690	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4b.e2;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4b.e2;rank=2;version=1
+I	WormBase	CDS	26590	26690	.	-	2	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	CDS	26733	26778	.	-	0	ID=CDS:Y74C9A.4b;Parent=transcript:Y74C9A.4b;protein_id=Y74C9A.4b
+I	WormBase	exon	26733	26781	.	-	.	Parent=transcript:Y74C9A.4b;Name=Y74C9A.4a.e1;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.4a.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	26779	26781	.	-	.	Parent=transcript:Y74C9A.4b
+I	WormBase	mRNA	17497	24796	.	-	.	ID=transcript:Y74C9A.4d;Parent=gene:WBGene00022278;Name=Y74C9A.4d;biotype=protein_coding;transcript_id=Y74C9A.4d
+I	WormBase	three_prime_UTR	17497	17910	.	-	.	Parent=transcript:Y74C9A.4d
+I	WormBase	exon	17497	17958	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4a.e12;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Y74C9A.4a.e12;rank=7;version=1
+I	WormBase	CDS	17911	17958	.	-	0	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	exon	18006	18115	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4a.e11;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e11;rank=6;version=1
+I	WormBase	CDS	18006	18115	.	-	2	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	exon	19015	19241	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4a.e10;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Y74C9A.4a.e10;rank=5;version=1
+I	WormBase	CDS	19015	19241	.	-	1	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	exon	20271	20478	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4a.e9;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=Y74C9A.4a.e9;rank=4;version=1
+I	WormBase	CDS	20271	20478	.	-	2	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	exon	20848	20964	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4a.e8;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.4a.e8;rank=3;version=1
+I	WormBase	CDS	20848	20964	.	-	2	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	CDS	21013	21127	.	-	0	ID=CDS:Y74C9A.4d;Parent=transcript:Y74C9A.4d;protein_id=Y74C9A.4d
+I	WormBase	exon	21013	21136	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4d.e2;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.4d.e2;rank=2;version=1
+I	WormBase	five_prime_UTR	21128	21136	.	-	.	Parent=transcript:Y74C9A.4d
+I	WormBase	exon	24651	24796	.	-	.	Parent=transcript:Y74C9A.4d;Name=Y74C9A.4d.e1;constitutive=0;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.4d.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	24651	24796	.	-	.	Parent=transcript:Y74C9A.4d
+I	WormBase	mRNA	17497	26643	.	-	.	ID=transcript:Y74C9A.4c;Parent=gene:WBGene00022278;Name=Y74C9A.4c;biotype=protein_coding;transcript_id=Y74C9A.4c
+I	WormBase	three_prime_UTR	17497	17910	.	-	.	Parent=transcript:Y74C9A.4c
+I	WormBase	exon	17497	17958	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e12;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Y74C9A.4a.e12;rank=11;version=1
+I	WormBase	CDS	17911	17958	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	18006	18115	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e11;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e11;rank=10;version=1
+I	WormBase	CDS	18006	18115	.	-	2	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	19015	19241	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e10;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Y74C9A.4a.e10;rank=9;version=1
+I	WormBase	CDS	19015	19241	.	-	1	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	20271	20478	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e9;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=Y74C9A.4a.e9;rank=8;version=1
+I	WormBase	CDS	20271	20478	.	-	2	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	20848	20964	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e8;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.4a.e8;rank=7;version=1
+I	WormBase	CDS	20848	20964	.	-	2	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	21013	21139	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e7;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e7;rank=6;version=1
+I	WormBase	CDS	21013	21139	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	24651	24845	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e6;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e6;rank=5;version=1
+I	WormBase	CDS	24651	24845	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	24929	25090	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e5;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e5;rank=4;version=1
+I	WormBase	CDS	24929	25090	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	25273	25472	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e4;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e4;rank=3;version=1
+I	WormBase	CDS	25273	25472	.	-	2	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	26371	26524	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4a.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e3;rank=2;version=1
+I	WormBase	CDS	26371	26524	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	exon	26590	26643	.	-	.	Parent=transcript:Y74C9A.4c;Name=Y74C9A.4c.e1;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4c.e1;rank=1;version=1
+I	WormBase	CDS	26590	26643	.	-	0	ID=CDS:Y74C9A.4c;Parent=transcript:Y74C9A.4c;protein_id=Y74C9A.4c
+I	WormBase	mRNA	17497	26781	.	-	.	ID=transcript:Y74C9A.4a;Parent=gene:WBGene00022278;Name=Y74C9A.4a;biotype=protein_coding;transcript_id=Y74C9A.4a
+I	WormBase	three_prime_UTR	17497	17910	.	-	.	Parent=transcript:Y74C9A.4a
+I	WormBase	exon	17497	17958	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e12;constitutive=0;ensembl_end_phase=-1;ensembl_phase=0;exon_id=Y74C9A.4a.e12;rank=12;version=1
+I	WormBase	CDS	17911	17958	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	18006	18115	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e11;constitutive=1;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e11;rank=11;version=1
+I	WormBase	CDS	18006	18115	.	-	2	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	19015	19241	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e10;constitutive=1;ensembl_end_phase=1;ensembl_phase=2;exon_id=Y74C9A.4a.e10;rank=10;version=1
+I	WormBase	CDS	19015	19241	.	-	1	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	20271	20478	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e9;constitutive=1;ensembl_end_phase=2;ensembl_phase=1;exon_id=Y74C9A.4a.e9;rank=9;version=1
+I	WormBase	CDS	20271	20478	.	-	2	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	20848	20964	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e8;constitutive=1;ensembl_end_phase=1;ensembl_phase=1;exon_id=Y74C9A.4a.e8;rank=8;version=1
+I	WormBase	CDS	20848	20964	.	-	2	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	21013	21139	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e7;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e7;rank=7;version=1
+I	WormBase	CDS	21013	21139	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	24651	24845	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e6;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e6;rank=6;version=1
+I	WormBase	CDS	24651	24845	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	24929	25090	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e5;constitutive=0;ensembl_end_phase=0;ensembl_phase=0;exon_id=Y74C9A.4a.e5;rank=5;version=1
+I	WormBase	CDS	24929	25090	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	25273	25472	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e4;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e4;rank=4;version=1
+I	WormBase	CDS	25273	25472	.	-	2	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	26371	26524	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e3;constitutive=0;ensembl_end_phase=1;ensembl_phase=0;exon_id=Y74C9A.4a.e3;rank=3;version=1
+I	WormBase	CDS	26371	26524	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	26590	26681	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e2;constitutive=0;ensembl_end_phase=0;ensembl_phase=1;exon_id=Y74C9A.4a.e2;rank=2;version=1
+I	WormBase	CDS	26590	26681	.	-	2	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	CDS	26733	26778	.	-	0	ID=CDS:Y74C9A.4a;Parent=transcript:Y74C9A.4a;protein_id=Y74C9A.4a
+I	WormBase	exon	26733	26781	.	-	.	Parent=transcript:Y74C9A.4a;Name=Y74C9A.4a.e1;constitutive=0;ensembl_end_phase=1;ensembl_phase=-1;exon_id=Y74C9A.4a.e1;rank=1;version=1
+I	WormBase	five_prime_UTR	26779	26781	.	-	.	Parent=transcript:Y74C9A.4a
+###
+I	WormBase	pseudogene	22882	23600	.	-	.	ID=gene:WBGene00235381;Name=Y74C9A.9;biotype=pseudogene;gene_id=WBGene00235381;logic_name=wormbase_pseudogene
+I	WormBase	pseudogenic_transcript	22882	23600	.	-	.	ID=transcript:Y74C9A.9;Parent=gene:WBGene00235381;Name=Y74C9A.9;biotype=pseudogene;transcript_id=Y74C9A.9
+I	WormBase	exon	22882	23600	.	-	.	Parent=transcript:Y74C9A.9;Name=Y74C9A.9.e1;constitutive=1;ensembl_end_phase=-1;ensembl_phase=-1;exon_id=Y74C9A.9.e1;rank=1;version=1
+###
