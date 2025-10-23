@@ -1,0 +1,7 @@
+@SQ	SN:chr1	LN:1575
+@SQ	SN:chr2	LN:1584
+@PG	ID:samtools	PN:samtools	VN:1.16.1	CL:./samtools view -h -o example.sam example.bam
+EAS139_11:8:38:842:395	73	chr1	2	77	3M	*	0	0	TAG	<<<	MF:i:32	Aq:i:77	NM:i:0	UQ:i:0	H0:i:1	H1:i:0
+EAS51_64:6:213:54:878	137	chr1	3	99	3M	*	0	0	GCG	<<<	MF:i:18	Aq:i:69	NM:i:1	UQ:i:4	H0:i:1	H1:i:0
+EAS54_71:4:252:428:683	137	chr1	2	99	3M	*	0	0	AAT	<<<	MF:i:18	Aq:i:69	NM:i:0	UQ:i:0	H0:i:1	H1:i:0
+EAS54_65:4:137:319:642	137	chr1	1	99	3M	*	0	0	ACC	<<<	MF:i:18	Aq:i:41	NM:i:2	UQ:i:9	H0:i:0	H1:i:1
