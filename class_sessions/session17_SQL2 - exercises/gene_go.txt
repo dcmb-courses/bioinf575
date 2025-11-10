@@ -1,0 +1,104 @@
+Gene,GO,Name
+Gene3,GO66,Cell division (mitosis and meiosis)
+Gene22,GO250,Cell growth and differentiation
+Gene74,GO233,Cell signaling
+Gene91,GO489,Apoptosis (programmed cell death)
+Gene99,GO88,Autophagy
+Gene11,GO107,Endocytosis and exocytosis
+Gene95,GO112,Protein synthesis
+Gene90,GO482,DNA replication
+Gene93,GO151,Gene expression
+Gene97,GO119,Glycolysis
+Gene23,GO93,Citric acid cycle
+Gene62,GO427,Oxidative phosphorylation
+Gene92,GO254,Photosynthesis
+Gene24,GO192,Lipid metabolism
+Gene75,GO425,Protein metabolism
+Gene52,GO353,Nucleic acid metabolism
+Gene17,GO402,Digestion
+Gene83,GO134,Respiration
+Gene15,GO500,Circulation
+Gene41,GO417,Excretion
+Gene43,GO218,Osmoregulation
+Gene42,GO334,Thermoregulation
+Gene67,GO249,Immune response
+Gene39,GO227,Hormone secretion
+Gene64,GO40,Nerve impulse transmission
+Gene79,GO313,Embryogenesis
+Gene38,GO138,Organogenesis
+Gene8,GO103,Metamorphosis
+Gene30,GO257,Regeneration
+Gene9,GO36,Aging
+Gene94,GO52,Gametogenesis
+Gene58,GO190,Fertilization
+Gene32,GO242,Embryo development
+Gene51,GO42,Parturition
+Gene70,GO440,Natural selection
+Gene66,GO253,Genetic drift
+Gene29,GO429,Gene flow
+Gene78,GO56,Mutation
+Gene63,GO171,Natural selection
+Gene18,GO49,Genetic drift
+Gene89,GO438,Gene flow
+Gene26,GO115,Mutation
+Gene48,GO344,Speciation
+Gene53,GO329,Adaptation
+Gene46,GO376,Predation
+Gene1,GO271,Competition
+Gene7,GO424,Symbiosis
+Gene40,GO400,Decomposition
+Gene98,GO325,Nutrient cycling
+Gene50,GO410,Succession
+Gene96,GO418,Phototropism
+Gene54,GO414,Geotropism
+Gene28,GO409,Thigmotropism
+Gene81,GO166,Transpiration
+Gene72,GO214,Guttation
+Gene77,GO423,Vernalization
+Gene49,GO195,Enzyme catalysis
+Gene56,GO162,Protein folding
+Gene61,GO237,Ion transport
+Gene55,GO363,Osmosis
+Gene13,GO139,Diffusion
+Gene27,GO487,Active transport
+Gene19,GO124,Phototransduction
+Gene69,GO236,Mechanotransduction
+Gene16,GO200,Chemoreception
+Gene57,GO447,Thermoreception
+Gene71,GO222,Nociception
+Gene37,GO345,Synaptic transmission
+Gene21,GO106,Neurotransmitter release
+Gene14,GO264,Long-term potentiation
+Gene10,GO403,Long-term depression
+Gene6,GO205,Neuroplasticity
+Gene87,GO469,Antigen presentation
+Gene2,GO279,Antibody production
+Gene12,GO485,Phagocytosis
+Gene33,GO292,Inflammation
+Gene47,GO460,Complement activation
+Gene82,GO379,Learning
+Gene85,GO491,Memory formation
+Gene45,GO59,Circadian rhythm regulation
+Gene31,GO299,Hibernation
+Gene76,GO185,Migration
+Gene34,GO131,RNA interference (RNAi)
+Gene36,GO362,Alternative splicing
+Gene84,GO493,Post-translational modification
+Gene80,GO69,Protein ubiquitination
+Gene20,GO291,Vesicle trafficking
+Gene60,GO450,Nuclear pore transport
+Gene4,GO281,Chromatin remodeling
+Gene44,GO453,Telomere maintenance
+Gene35,GO219,DNA methylation
+Gene5,GO167,Histone modification
+Gene59,GO84,Vasodilation and vasoconstriction
+Gene86,GO246,Peristalsis
+Gene73,GO265,Glomerular filtration
+Gene65,GO161,Pulmonary gas exchange
+Gene25,GO102,Bone remodeling
+Gene100,GO473,Wound healing
+Gene68,GO188,Blood clotting
+Gene88,GO326,Synaptic plasticity
+Gene3,GO366,Muscle hypertrophy
+Gene3,GO100,Adipogenesis
+Gene70,GO50,Antigen processing
