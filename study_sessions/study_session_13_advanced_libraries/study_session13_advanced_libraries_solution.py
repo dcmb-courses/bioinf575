@@ -9,11 +9,6 @@ __________
 BIOINFORMATICS STATS AND MACHINE LEARNING STUDY SESSION 
 SOLUTION 
 
-This script provides detailed docstrings and inline comments explaining:
-- Function calls including parameters
-- Class designs and usage
-- Data manipulation and machine learning steps
-
 """
 
 import numpy as np

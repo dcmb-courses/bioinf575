@@ -2,7 +2,7 @@
 
 AI disclaimer:
 
-Most of this notebook was generated with the use of AI. 
+Most of this file was generated with the use of AI. 
 Edits were made to fix errors and add clarity.
 
 ## Table of Contents
@@ -136,4 +136,3 @@ Edits were made to fix errors and add clarity.
 
 ---
 
-*This document provides complete exercise specifications, biological context, and clear next steps for advancing each analysis toward research-grade bioinformatics workflows.*
