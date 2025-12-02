@@ -1,4 +1,4 @@
-# Bioinformatics Machine Learning Exercises:
+# Bioinformatics Exercises:
 
 AI disclaimer:
 

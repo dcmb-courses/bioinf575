@@ -6,7 +6,7 @@ Most of this script was generated with the use of AI.
 Edits were made to fix errors and add clarity.
 __________
 
-BIOINFORMATICS STATS AND MACHINE LEARNING STUDY SESSION 
+BIOINFORMATICS ADVANCED LIBRARIES STUDY SESSION 
 SOLUTION 
 
 """
